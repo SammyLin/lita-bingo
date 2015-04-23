@@ -14,6 +14,9 @@ Add lita-bingo to your Lita instance's Gemfile:
 ``` ruby
 gem "lita-bingo"
 ```
+### Special Thanks
+
+[Huei-Horng Yo](https://github.com/hiroshiyui)
 
 ## License
 
