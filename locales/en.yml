@@ -1,0 +1,12 @@
+en:
+  lita:
+    handlers:
+      bingo:
+        engineer:
+          help:
+            engineer_key: "say engineer"
+            engineer_value: "Random Format TEXT using bingo"
+        overtime:
+          help:
+            overtime_key: "say overtime"
+            overtime_value: "Random Format TEXT using bingo"
