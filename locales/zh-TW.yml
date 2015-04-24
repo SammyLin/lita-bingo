@@ -14,3 +14,7 @@ zh-TW:
           help:
             designer_key: "SAY 設計師 or designer"
             designer_value: "產生有關「設計人激怒器」的有趣的一句話"
+        oops:
+          help:
+            oops_key: "SAY 理由 or 出包 or oops"
+            oops_value: "產生有關「專案出包理由產生器」的有趣的一句話"
