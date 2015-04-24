@@ -16,4 +16,4 @@ en:
       oops:
         help:
           oops_key: "SAY 理由 or 出包 or oops"
-          oops_value: "Radom Format TEXT using bingo"
+          oops_value: "Random Format TEXT using bingo"
