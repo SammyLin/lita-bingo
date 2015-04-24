@@ -13,3 +13,7 @@ en:
         help:
           designer_key: "SAY 設計師 or designer"
           designer_value: "Random Format TEXT using bingo"
+      oops:
+        help:
+          oops_key: "SAY 理由 or 出包 or oops"
+          oops_value: "Radom Format TEXT using bingo"
