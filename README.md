@@ -18,6 +18,11 @@ gem "lita-bingo"
 
 [Huei-Horng Yo](https://github.com/hiroshiyui)
 
+### TO DO
+
+* create dictionary use .yml
+* create many dictionary
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
