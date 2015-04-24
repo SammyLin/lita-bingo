@@ -20,7 +20,6 @@ gem "lita-bingo"
 
 ### TO DO
 
-* create dictionary use .yml
 * create many dictionary
 
 ## License
