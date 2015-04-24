@@ -1,12 +1,15 @@
 en:
   lita:
     handlers:
-      bingo:
-        engineer:
-          help:
-            engineer_key: "say engineer"
-            engineer_value: "Random Format TEXT using bingo"
-        overtime:
-          help:
-            overtime_key: "say overtime"
-            overtime_value: "Random Format TEXT using bingo"
+      engineer:
+        help:
+          engineer_key: "SAY 工程師 or 凹 or engineer"
+          engineer_value: "Random Format TEXT using bingo"
+      overtime:
+        help:
+          overtime_key: "SAY 加班 or overtime"
+          overtime_value: "Random Format TEXT using bingo"
+      designer:
+        help:
+          designer_key: "SAY 設計師 or designer"
+          designer_value: "Random Format TEXT using bingo"

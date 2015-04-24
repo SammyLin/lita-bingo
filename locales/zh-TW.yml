@@ -1,0 +1,16 @@
+zh-TW:
+  UTF-8:
+    lita:
+      handlers:
+        engineer:
+          help:
+            engineer_key: "SAY 工程師 or 凹 or engineer"
+            engineer_value: "產生有關「如何凹工程師？」的有趣的一句話"
+        overtime:
+          help:
+            overtime_key: "SAY 加班 or overtime"
+            overtime_value: "產生有關「加班事由產生器」的有趣的一句話"
+        designer:
+          help:
+            designer_key: "SAY 設計師 or designer"
+            designer_value: "產生有關「設計人激怒器」的有趣的一句話"
